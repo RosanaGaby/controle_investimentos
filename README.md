@@ -44,6 +44,7 @@ Planilha2 (Base de Dados):
 Aba estrutural que atua como o "motor" da planilha. Contém as matrizes e o mapeamento das alocações de ativos (pesos percentuais de cada categoria de FII) vinculados a cada um dos perfis de investidor.
 
 Como Usar
+Faça o download do arquivo controle_investimentos.xlsx.xlsx disponível neste repositório.
 
 Abra o arquivo no Microsoft Excel (ou software compatível).
 
